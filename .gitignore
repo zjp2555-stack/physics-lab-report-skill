@@ -1,0 +1,8 @@
+Thumbs.db
+.DS_Store
+desktop.ini
+.mimosa/
+
+# 讲义内容不入公开仓库（完整副本在私有备份仓库）
+physics-lab-report/references/讲义/*
+!physics-lab-report/references/讲义/README.md
